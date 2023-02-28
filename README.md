@@ -1,4 +1,4 @@
-### Hi there 👋
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=linweiqian" /> </div>
 
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flower0313&show_icons=true&theme=tokyonight)
 
