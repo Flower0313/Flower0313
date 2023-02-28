@@ -1,10 +1,10 @@
 ### <div align="center">I'm Holden, come from China🚀</div>  
   
 
-- 🔭 I’m currently working on [QinHanHuTong]([https://github.com/rishavanand/github-profilinator](https://cnhutong.tantuw.com/))  
+- 🔭 大数据工程师，目前工作在上海
   
 
-- 🌱 I’m currently learning Machine learning and IELTS  
+- 🌱 正在学习机器学习与备考雅思
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
