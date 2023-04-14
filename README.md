@@ -4,13 +4,13 @@
 - 🔭 大数据工程师，目前工作在上海
   
 
-- 🌱 正在学习机器学习与备考雅思
+- 🌱 努力屠雅中。。。
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ 知无不言言无不尽
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ 拥有无尽的脑洞
   
 
 <br/>  
