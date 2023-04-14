@@ -1,7 +1,7 @@
 ### <div align="center">I'm Holden, come from China🚀</div>  
   
 
-- 🔭 大数据工程师，目前工作在上海
+- 🔭 大数据工程师，base上海
   
 
 - 🌱 努力屠雅中。。。
