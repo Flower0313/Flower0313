@@ -1,97 +1,143 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020409,50:003b2b,100:00ff99&text=ACCESS%20GRANTED&fontColor=00ff99&fontSize=46&fontAlignY=38&desc=YOU%20HAVE%20ENTERED%20HOLDEN%27S%20SYSTEM&descAlignY=62&descSize=16&animation=fadeIn" width="100%" alt="Access granted cyberpunk header" />
+
 ```text
-██╗  ██╗ ██████╗ ██╗     ██████╗ ███████╗███╗   ██╗
-██║  ██║██╔═══██╗██║     ██╔══██╗██╔════╝████╗  ██║
-███████║██║   ██║██║     ██║  ██║█████╗  ██╔██╗ ██║
-██╔══██║██║   ██║██║     ██║  ██║██╔══╝  ██║╚██╗██║
-██║  ██║╚██████╔╝███████╗██████╔╝███████╗██║ ╚████║
-╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═══╝
+               .-''''''-.
+             .'  _    _  '.
+            /   (o)  (o)   \
+           |       /\       |
+           |  .-._/  \_.-.  |
+            \  \  '=='  /  /
+             '. '------' .'
+               '-.____.-'
+             ___/|    |\___
+           /____/|____|\____\
+
+    [ NO SYSTEM IS TOO COMPLEX TO EXPLORE ]
 ```
 
-### `> WHOAMI_`  ·  Holden / 上海 / 大数据开发工程师
+# `> H O L D E N_`
 
-**Data Engineering × AI Agents × Building Weird Things**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1900&pause=650&color=00FF99&background=00000000&center=true&vCenter=true&width=860&lines=%5BROOT%40SHANGHAI%5D+Identity+verified...;%24+sudo+make+impossible+possible;%3E+Big+Data+Engineer+%7C+AI+Agent+Builder;%3E+Turning+chaos+into+pipelines...;%5B+SYSTEM+ONLINE+%5D+Welcome+to+my+world." alt="Terminal typing animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=850&color=00F5A0&center=true&vCenter=true&width=800&lines=%24+whoami+%E2%86%92+Holden;%24+cat+mission.txt+%E2%86%92+Build+something+insane;%24+echo+%22Stay+curious.+Ship+things.%22" alt="Animated terminal intro" />
-
-![Profile views](https://komarev.com/ghpvc/?username=Flower0313&style=for-the-badge&color=00b894&label=VISITORS)
-![GitHub followers](https://img.shields.io/github/followers/Flower0313?style=for-the-badge&label=FOLLOWERS&color=111827&labelColor=00b894)
+![status](https://img.shields.io/badge/SYSTEM-ONLINE-00ff99?style=for-the-badge&labelColor=050b0a)
+![location](https://img.shields.io/badge/BASE-SHANGHAI-00d9ff?style=for-the-badge&labelColor=050b0a)
+![role](https://img.shields.io/badge/CLASS-DATA_ENGINEER-ff48c4?style=for-the-badge&labelColor=050b0a)
+![views](https://komarev.com/ghpvc/?username=Flower0313&style=for-the-badge&color=00a878&label=INTRUSIONS)
 
 </div>
 
 ---
 
-### `01 / SYSTEM.INFO`
+## `01 // BOOT_SEQUENCE`
 
-```bash
-$ ./about-me --verbose
+```console
+root@holden:~# ./initialize_identity.sh --verbose
 
-[IDENTITY]    Holden
-[LOCATION]    Shanghai, China
-[ROLE]        Big Data Engineer
-[FOCUS]       Data Engineering / AI Agents / Automation
-[CURRENT]     Building useful systems and exploring new ideas
-[SIDE_QUEST]  IELTS grind in progress...
-[MINDSET]      Big ideas. Small commits. Repeat.
-[STATUS]      ONLINE  ●
+[  OK  ] Identity............... Holden
+[  OK  ] Origin................. China
+[  OK  ] Coordinates............ Shanghai
+[  OK  ] Profession............. Big Data Engineer
+[  OK  ] Operating mode......... Build / Break / Rebuild
+[  OK  ] Current research........ AI Agents + Data Infrastructure
+[  ..  ] Side quest.............. IELTS: still grinding
+[  OK  ] Curiosity daemon....... RUNNING (no shutdown scheduled)
+[ WARN ] Ideas.................. Exceed available RAM
+
+root@holden:~# echo $PHILOSOPHY
+"Question everything. Automate the boring. Ship the weird."
 ```
 
-### `02 / TECH.ARSENAL`
-
-**`DATA & INFRA`**
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D)
-![Kafka](https://img.shields.io/badge/Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-0D1117?style=for-the-badge&logo=apachehadoop&logoColor=FFDF00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-
-**`BUILD & DEPLOY`**
-
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639)
-
-**`WEB & OTHERS`**
-
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![jQuery](https://img.shields.io/badge/jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=0769AD)
-![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F)
-![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-
-### `03 / TELEMETRY`
+## `02 // THE ARSENAL`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Flower0313&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flower0313&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
+**`[ DATA ENGINEERING / THE CORE ]`**
 
-<img src="https://streak-stats.demolab.com?user=Flower0313&theme=github-dark-blue&hide_border=true" alt="GitHub activity streak" />
+![Python](https://img.shields.io/badge/Python-071311?style=for-the-badge&logo=python&logoColor=00ff99)
+![Java](https://img.shields.io/badge/Java-071311?style=for-the-badge&logo=openjdk&logoColor=00ff99)
+![Hadoop](https://img.shields.io/badge/Hadoop-071311?style=for-the-badge&logo=apachehadoop&logoColor=00ff99)
+![Kafka](https://img.shields.io/badge/Kafka-071311?style=for-the-badge&logo=apachekafka&logoColor=00ff99)
+![MySQL](https://img.shields.io/badge/MySQL-071311?style=for-the-badge&logo=mysql&logoColor=00ff99)
+![Redis](https://img.shields.io/badge/Redis-071311?style=for-the-badge&logo=redis&logoColor=00ff99)
+
+**`[ SYSTEMS / INFRASTRUCTURE ]`**
+
+![Linux](https://img.shields.io/badge/Linux-071311?style=for-the-badge&logo=linux&logoColor=00d9ff)
+![Docker](https://img.shields.io/badge/Docker-071311?style=for-the-badge&logo=docker&logoColor=00d9ff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-071311?style=for-the-badge&logo=kubernetes&logoColor=00d9ff)
+![Nginx](https://img.shields.io/badge/Nginx-071311?style=for-the-badge&logo=nginx&logoColor=00d9ff)
+![Bash](https://img.shields.io/badge/Bash-071311?style=for-the-badge&logo=gnubash&logoColor=00d9ff)
+![Git](https://img.shields.io/badge/Git-071311?style=for-the-badge&logo=git&logoColor=00d9ff)
+
+**`[ EXPERIMENTAL LAB ]`**
+
+![AI Agents](https://img.shields.io/badge/AI_AGENTS-071311?style=for-the-badge&logo=openai&logoColor=ff48c4)
+![PyTorch](https://img.shields.io/badge/PyTorch-071311?style=for-the-badge&logo=pytorch&logoColor=ff48c4)
+![Spring](https://img.shields.io/badge/Spring-071311?style=for-the-badge&logo=spring&logoColor=ff48c4)
+![.NET](https://img.shields.io/badge/.NET-071311?style=for-the-badge&logo=dotnet&logoColor=ff48c4)
 
 </div>
 
-### `04 / TRANSMISSION.LOG`
+## `03 // ACTIVE_PROCESSES`
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│  SIGNAL   : ████████████████████  100%                     │
-│  MISSION  : TURN DATA INTO SYSTEMS                          │
-│  WARNING  : IDEAS MAY EXCEED AVAILABLE RAM                 │
-│  MOTTO    : STAY CURIOUS. KEEP BUILDING.                    │
-└─────────────────────────────────────────────────────────────┘
+PID      PROCESS                       STATUS
+001      data_pipeline.engine          ██████████ ACTIVE
+002      ai_agent.experiments          ███████░░░ EVOLVING
+003      random_ideas.generator        ██████████ UNLIMITED
+004      english.learning              █████░░░░░ IN PROGRESS
+005      sleep.scheduler               ██░░░░░░░░ SUSPICIOUS
+```
+
+> *The process list is a creative self-description, not live telemetry.*
+
+## `04 // GITHUB_TELEMETRY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Flower0313&show_icons=true&hide_border=true&theme=chartreuse-dark" height="170" alt="Holden GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flower0313&layout=compact&hide_border=true&theme=chartreuse-dark" height="170" alt="Holden top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Flower0313&theme=dark&hide_border=true&ring=00FF99&fire=FF48C4&currStreakLabel=00FF99" alt="GitHub streak statistics" />
+
+</div>
+
+## `05 // THE_MATRIX`
+
+```text
+01001000 01001111 01001100 01000100 01000101 01001110
+
+  ╭────────────────────────────────────────────────────╮
+  │  > scanning repositories..................... [OK] │
+  │  > parsing complex systems................... [OK] │
+  │  > exploring unknown territory.............. [OK] │
+  │  > accepting artificial limitations......... [NO] │
+  ╰────────────────────────────────────────────────────╯
+```
+
+## `06 // OPEN_CHANNEL`
+
+```bash
+root@holden:~# ./connect --protocol=github
+> Contact node: https://github.com/Flower0313
+> Handshake: open to ideas, experiments, and good conversations.
+> Connection status: READY
 ```
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/OPEN_SOURCE-GITHUB-00F5A0?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/Flower0313)
+[![GitHub](https://img.shields.io/badge/ENTER_THE_REPOSITORIES-00ff99?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Flower0313?tab=repositories)
 
-<sub><code>EOF // the best projects start with a ridiculous idea.</code></sub>
+```text
+╔════════════════════════════════════════════════════════════════╗
+║  ACCESS LEVEL: VISITOR                                         ║
+║  SYSTEM MESSAGE: STAY CURIOUS. KEEP HACKING YOUR OWN LIMITS.   ║
+║  CONNECTION TERMINATED? NEVER.                                 ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+**`[ EOF ] // Reality is just another system to reverse-engineer.`**
 
 </div>
