@@ -1,81 +1,74 @@
 <div align="center">
 
-<img src="assets/holden-cover.svg" width="100%" alt="HOLDEN — Donda inspired monochrome cover with a Yeezus red industrial accent" />
+<img src="assets/holden-editorial.png" width="100%" alt="HOLDEN — The Life of a Builder. Kanye album references and sand-colored Yeezy-inspired sculptural forms." />
 
 <br>
 
-<sub><strong>HOLDEN / FLOWER0313</strong> &nbsp;—&nbsp; SHANGHAI, CHINA</sub>
+**HOLDEN / FLOWER0313** &nbsp; · &nbsp; SHANGHAI
 
-<br><br>
+**DATA ENGINEERING × SYSTEMS × AI AGENTS**
 
-**BIG DATA ENGINEER** &nbsp; / &nbsp; **DATA SYSTEMS** &nbsp; / &nbsp; **AI AGENTS**
+*Make it work. Give it a point of view.*
 
-<br>
-
-<sup>NO NOISE. ONLY SIGNAL.</sup>
+[REPOSITORIES](https://github.com/Flower0313?tab=repositories) &nbsp; / &nbsp; [STARS](https://github.com/Flower0313?tab=stars)
 
 </div>
-
-<br>
 
 ---
 
-### 01 — THE PERSON
+### 00 / THE LIFE OF A BUILDER
 
-```text
-NAME        HOLDEN
-LOCATION    SHANGHAI
-DISCIPLINE  DATA ENGINEERING
-EXPLORING   AI AGENTS / AUTOMATION / INTELLIGENT SYSTEMS
-SIDE QUEST  IELTS
-MINDSET     BUILD FIRST. QUESTION EVERYTHING.
-```
+I'm Holden, a data engineer based in Shanghai. I build data pipelines, work with large-scale systems, and explore AI agents that can do useful work.
 
-### 02 — THE WORK
+在数据、系统与 AI 之间做东西。喜欢 Kanye 专辑视觉里的实验精神，也喜欢 YEEZY 把日常物件做成雕塑的方式：**形式要有态度，系统要能落地。**
 
-I build data pipelines, work with large-scale data systems, and explore ways to make AI agents useful beyond demos.
-
-**DATA** `SQL` · `MaxCompute` · `Hologres` · `Kafka` · `Hadoop` · `MySQL`  
-**CODE** `Python` · `Java` · `Git` · `Bash`  
-**SYSTEMS** `Linux` · `Docker` · `Redis` · `Nginx`  
-**EXPLORING** `LLMs` · `MCP` · `AI Agents` · `Automation`
+`BUILD FIRST` &nbsp; `QUESTION EVERYTHING` &nbsp; `KEEP REFINING`
 
 <br>
 
-<div align="center">
-  <img src="assets/holden-interlude.svg" width="100%" alt="A black minimal design with red system warning typography" />
-</div>
+<img src="assets/album-language.svg" width="100%" alt="Original visual studies: 808s broken heart, Yeezus clear CD with red tape, Pablo orange repeated typography, Donda black negative space." />
+
+### 01 / RECORDS → METHODS
+
+| RECORD | VISUAL CUE | HOW I BUILD |
+| :--- | :--- | :--- |
+| **808s & Heartbreak** | 冷灰与破碎的心形 | 技术之外，也照顾使用者的感受。 |
+| **Yeezus** | 透明唱片、红色胶带、裸露结构 | 把复杂系统拆开，让关键逻辑清晰可见。 |
+| **The Life of Pablo** | 橙色、重复、拼贴 | 持续试验，在迭代中找到自己的表达。 |
+| **Donda** | 黑色与留白 | 减少噪声，把注意力留给真正重要的内容。 |
 
 <br>
 
-### 03 — ACTIVITY
+<img src="assets/design-language.svg" width="100%" alt="LESS, BUT FELT. Sand-toned sculptural foam form. Sculptural form, earth tones, material first, utility." />
 
-<div align="center">
+### 02 / FROM YEEZY TO SYSTEMS
 
-<a href="https://github.com/Flower0313?tab=repositories">REPOSITORIES</a> &nbsp;&nbsp; / &nbsp;&nbsp; <a href="https://github.com/Flower0313?tab=stars">STARS</a> &nbsp;&nbsp; / &nbsp;&nbsp; <a href="https://github.com/Flower0313">PROFILE</a>
+我对 YEEZY 设计语言的理解，是**雕塑感轮廓、低饱和大地色、材质表达与日常功能**。把这套审美带回工程里：界面少一点负担，模块有清晰边界，工具围绕真实任务组织。
 
-<br><br>
+**FORM** — 清楚的结构，让复杂性有容器。  
+**MATERIAL** — 理解数据、代码与基础设施本身的特性。  
+**UTILITY** — 做出来的东西，应该有人愿意一直用。
 
-<!-- Optional external stats image intentionally omitted to avoid broken cards and inconsistent themes. -->
+### 03 / THE TOOLBOX
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Flower0313&bg_color=000000&color=E5E5E5&line=DA2424&point=FFFFFF&area=false&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" width="100%" alt="GitHub contribution graph (third-party service)" />
-
-</div>
-
-<br>
+| LAYER | MATERIALS |
+| :--- | :--- |
+| **DATA** | SQL · MaxCompute · Hologres · Kafka · Hadoop · MySQL |
+| **CODE** | Python · Java · Git · Bash |
+| **SYSTEMS** | Linux · Docker · Redis · Nginx |
+| **EXPLORING** | LLMs · MCP · AI Agents · Automation |
+| **SIDE QUEST** | IELTS · English · Continuous learning |
 
 ---
 
 <div align="center">
 
-<sub><strong>THIS IS NOT THE FINAL VERSION.</strong></sub>
+### IDEAS ARE THE DEMO. BUILDING IS THE WORK.
 
-<br>
-
-<sup>BUILD / BREAK / REBUILD</sup>
+<sub>HOLDEN ARCHIVE / VOL. 002 / ALWAYS IN PROGRESS</sub>
 
 <br><br>
 
-<a href="https://github.com/Flower0313">GITHUB ↗</a>
+<sub>Original fan-made visual studies inspired by Kanye West’s album artwork and YEEZY design language.<br>Personal interpretations, not artist quotations. Independent personal profile; no affiliation.</sub>
 
 </div>
